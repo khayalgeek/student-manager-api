@@ -1,0 +1,12 @@
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\Student.Entity.deps.json
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\Student.Entity.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\Student.Entity.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.csproj.AssemblyReference.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.AssemblyInfoInputs.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.AssemblyInfo.cs
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\refint\Student.Entity.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\Student.Entity.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\obj\Release\net6.0\ref\Student.Entity.dll

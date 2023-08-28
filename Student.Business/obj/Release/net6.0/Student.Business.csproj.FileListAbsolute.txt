@@ -1,0 +1,17 @@
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.Business.deps.json
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.Business.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.Business.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.DataAccess.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.Entity.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.DataAccess.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\bin\Release\net6.0\Student.Entity.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.csproj.AssemblyReference.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.AssemblyInfoInputs.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.AssemblyInfo.cs
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.csproj.CoreCompileInputs.cache
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.csproj.CopyComplete
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\refint\Student.Business.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\Student.Business.pdb
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Business\obj\Release\net6.0\ref\Student.Business.dll

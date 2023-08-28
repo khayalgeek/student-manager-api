@@ -1,0 +1,3 @@
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\publish\Student.Entity.dll
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\publish\Student.Entity.deps.json
+C:\Users\nofel\Desktop\RepositoryPattern\Version_2\V_Publish\Student.Entity\bin\Release\net6.0\publish\Student.Entity.pdb
